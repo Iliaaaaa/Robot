@@ -244,7 +244,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {115472981,186126213,185497010},--Sudo users
+    sudo_users = {115472981,186126213,184497010},--Sudo users
     support_gp = {111111111},--Support id
     moderation = {data = 'system/data/advansys.json'},
   }
